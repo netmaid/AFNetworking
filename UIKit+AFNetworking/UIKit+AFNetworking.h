@@ -25,14 +25,14 @@
 #ifndef _UIKIT_AFNETWORKING_
     #define _UIKIT_AFNETWORKING_
 
-    #import "AFNetworkActivityIndicatorManager.h"
+    #import <AFNetworking/AFNetworkActivityIndicatorManager.h>
 
-    #import "UIActivityIndicatorView+AFNetworking.h"
-    #import "UIAlertView+AFNetworking.h"
-    #import "UIButton+AFNetworking.h"
-    #import "UIImageView+AFNetworking.h"
-    #import "UIKit+AFNetworking.h"
-    #import "UIProgressView+AFNetworking.h"
-    #import "UIRefreshControl+AFNetworking.h"
-    #import "UIWebView+AFNetworking.h"
+    #import <AFNetworking/UIActivityIndicatorView+AFNetworking.h>
+    #import <AFNetworking/UIAlertView+AFNetworking.h>
+    #import <AFNetworking/UIButton+AFNetworking.h>
+    #import <AFNetworking/UIImageView+AFNetworking.h>
+    #import <AFNetworking/UIKit+AFNetworking.h>
+    #import <AFNetworking/UIProgressView+AFNetworking.h>
+    #import <AFNetworking/UIRefreshControl+AFNetworking.h>
+    #import <AFNetworking/UIWebView+AFNetworking.h>
 #endif /* _UIKIT_AFNETWORKING_ */
